@@ -1,19 +1,13 @@
 nlp/Chapter05/data/
 nlp/Chapter08/data/
 nlp/Chapter10/data/
-nlp/README.md
 nlp/embedding/AUC Curves.png
 nlp/embedding/_DS_Store
 rl/Chapter01/logs/
 rl/Chapter01/saves/
 "rl/Chapter03/Icon\r"
 rl/Chapter03/MUJOCO_LOG.TXT
-"rl/Chapter03/demo/Icon\r"
-"rl/Chapter03/distribution/Icon\r"
 rl/Chapter03/log/
-"rl/Chapter03/policy/Icon\r"
-"rl/Chapter03/value/Icon\r"
-"rl/Chapter04/Icon\r"
 rl/Chapter04/log/
 rl/alpha_go/commands.txt
 rl/chatbot/model/
